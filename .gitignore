@@ -215,3 +215,4 @@ datasets/*
 
 # Checkpoints
 checkpoints/*
+checkpoints_*/*

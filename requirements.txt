@@ -4,3 +4,4 @@ opencv-python
 kagglehub
 matplotlib
 pandas
+scikit-learn
